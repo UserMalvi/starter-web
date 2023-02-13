@@ -1,5 +1,7 @@
 #Start web project
 
+this is a simple website for showing how to use git and github together
+
 ##Introduction
 
 ##Purpose
