@@ -2,7 +2,9 @@
 
 this is a simple website for showing how to use git and github together
 
-##Introduction
+##Introduction  
+
+this is example is to show diffrenet parts of the git repository and varous commans
 
 ##Purpose
 
