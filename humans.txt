@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    rathod malvi malvi@git.rathod @awesomerm
 
 # THANKS
 
