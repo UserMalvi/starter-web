@@ -1,3 +1,13 @@
+#Start web project
+
+##Introduction
+
+##Purpose
+
+##Deployment
+
+##hor to contribute
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
