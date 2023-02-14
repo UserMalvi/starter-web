@@ -29,4 +29,4 @@ this is a simple web project deployment can be on any web server or even local f
 
 this is copyright
 
-2023 git.training
+2023 git.training. all rights reserved.
